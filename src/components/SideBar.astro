@@ -3,11 +3,11 @@
   <div class="menu flex flex-col flex-nowrap p-4 overflow-y-auto w-[21rem] bg-base-200 text-base-content">
     <div class="w-fit">
       <a href="/">
-        <div class="avatar transition ease-in-out w-1/2 hover:scale-[102%] block m-auto mt-3 mb-6">
+        <div class="avatar transition ease-in-out w-1/2 hover:scale-[102%] block m-auto mt-3 mb-6" style="background-color: #f0f0f0;">
           <div>
-            <img class="mask mask-circle" src="/profile.jpg" alt="profile image" />
+            <img class="mask mask-circle" src="/profile.jpg" alt="profile image" loading="lazy" />
           </div>
-        </div>
+        </div>        
       </a>
     </div>
     <ul class="grow shrink">
@@ -20,6 +20,7 @@
   </div>
 </div>
 <script>
+  document.addEventListener("DOMContentLoaded", function () {
   const homeLink = document.getElementById("home");
   const projectsLink = document.getElementById("projects");
   const servicesLink = document.getElementById("services");
@@ -42,4 +43,6 @@
   if (isHome) {
     homeLink.classList.add("bg-base-300");
   }
+});
+
 </script>
