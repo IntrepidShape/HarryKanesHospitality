@@ -11,7 +11,7 @@ checkoutUrl: "https://checkouturl.com/"
 heroImage: "/itemPreview.png"
 ---
 
-As part of my services, I've designed a short flyer called Eating Green, Lean, Cheap, and Keen Magazine. This flyershort essay is a fun and quirky artistic venture that aims to inspire you to create delicious meals using leftovers, waste, weeds from your garden, and even your neighbor's lemon tree.
+As part of my services, I've designed a short flyer called Eating Green, Lean, Cheap, and Keen Magazine "Green Zine". This short essay is a fun and quirky artistic venture that aims to inspire you to create delicious meals using leftovers, waste, weeds from your garden, and even your neighbor's lemon tree.
 
 My goal is to empower you to embrace a self-sufficient lifestyle and reconnect with the roots of our food. To keep costs down, I've learned to store seeds, grow my own produce, and use techniques such as pickling, fermenting, and food scrap mulching.
 
