@@ -1,16 +1,19 @@
 ---
-title: "Demo Item 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Seasonal Weekly Recipies for Perth Region"
+description: "Eating Green, lean, cheap and keen magazine. A subscription to a creative short recipe list with ingredients you can source for very cheap, with little waste and a lot of love to inspire your kitchen journy every week!"
 details: true
 custom_link_label: "Live Preview"
 custom_link: "https://demourl.com/"
 updatedDate: "Sep 15 2022"
-pricing: "$15"
+pricing: "$2.99 AUD"
 badge: "Featured"
 checkoutUrl: "https://checkouturl.com/"
 heroImage: "/itemPreview.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+As part of my services, I've designed a short flyer called Eating Green, Lean, Cheap, and Keen Magazine. This flyershort essay is a fun and quirky artistic venture that aims to inspire you to create delicious meals using leftovers, waste, weeds from your garden, and even your neighbor's lemon tree.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+My goal is to empower you to embrace a self-sufficient lifestyle and reconnect with the roots of our food. To keep costs down, I've learned to store seeds, grow my own produce, and use techniques such as pickling, fermenting, and food scrap mulching.
+
+Through insightful essays on food systems, tasty recipies, and everyday tips; Eating Green, Lean, Cheap, and Keen Magazine is a fantastic resource that can help you make small changes towards sustainability. 
+
